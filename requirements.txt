@@ -1,0 +1,6 @@
+airflow==0.6
+apache_airflow==2.0.0
+lxml==4.5.2
+pandas==1.0.5
+requests==2.23.0
+yfinance==0.1.55
